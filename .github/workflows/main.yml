@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Setup Python
         # Get Python configured and installed in a build environment by using the `setup-python@v2` GitHub tool
-        uses: actions/setup-python@2
+        uses: actions/setup-python@v2
         with:
           # Create an environment for each of the Python versions listed in matrix: python
           python-version: ${{ matrix.python }}

@@ -1,7 +1,7 @@
 # GitHub Actions with tox and pytest
 
 The repository demonstrates the use of **GitHub Actions** with **tox** and **pytest** and 
-is separated from the other (repository)[https://github.com/ax-va/Pytest-Okken-2022]
+is separated from the other [repository](https://github.com/ax-va/Pytest-Okken-2022)
 dedicated to pytest. See also the `11--tox/11-6--running-tox-with-github-actions.md` example there.
 
 ## Settings
